@@ -1,0 +1,12 @@
+section {
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+}
+
+.bg-hpi-red {
+    background-color: #b1063a;
+}
+
+.text-hpi-red {
+    color: #b1063a;
+}
